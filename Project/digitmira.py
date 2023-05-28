@@ -1,6 +1,6 @@
 import os
 import math
-
+#This is a comment
 def ma(z):
     a=trainthedata(z)
     return a
