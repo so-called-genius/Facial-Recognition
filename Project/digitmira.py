@@ -5,6 +5,7 @@ def ma(z):
     a=trainthedata(z)
     return a
 
+
 def trainthedata(z):
     data = []
     f = open("trainingimages")
